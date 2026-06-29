@@ -2,15 +2,13 @@ GROCERY STORE MANAGEMENT SYSTEM
 (Tkinter + MySQL Project)
 
 
-====================================================
-PROJECT NAME
-====================================================
+**Project Name**:
 GroceryStoreProject
 
 
-====================================================
+
 DESCRIPTION
-====================================================
+
 This is a desktop-based Grocery Store Management System
 developed using Python (Tkinter) and MySQL database.
 
@@ -21,9 +19,9 @@ It helps to manage:
 - Billing system
 
 
-====================================================
+
 PROJECT STRUCTURE
-====================================================
+
 
 GroceryStoreProject/
 |
@@ -38,9 +36,9 @@ GroceryStoreProject/
 |-- README.md            -> Project documentation
 
 
-====================================================
+
 INSTALLATION & SETUP
-====================================================
+
 
 STEP 1: Clone Repository
 ------------------------------------
